@@ -41,3 +41,16 @@ data "SpellAnimation" "dd86aa43-8189-4d9f-9a5c-454b5fe4a197,,;,,;bcc3b0d9-f04f-4
 data "SpellFlags" "Temporary"
 data "FollowUpOriginalSpell" "Shout_DisguiseSelf"
 
+new entry "Shout_DisguiseSelf_Tiefling_Male"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_DisguiseSelf"
+data "SpellContainerID" "Shout_DisguiseSelf"
+data "ContainerSpells" ""
+data "SpellProperties" "ApplyStatus(DISGUISE_SELF_TIEFLING_MALE,100,-1)"
+data "Icon" "Spell_Illusion_DisguiseSelf_Tiefling_Male"
+data "DisplayName" "h48782d39g2876g455bg8c41g89ff7982cbd0;2"
+data "Description" "hbe072411gcda7g45e4g8d35g39d276270cb0;2"
+data "TooltipStatusApply" "ApplyStatus(DISGUISE_SELF_TIEFLING_MALE,100,-1)"
+data "RitualCosts" "ActionPoint:1"
+
