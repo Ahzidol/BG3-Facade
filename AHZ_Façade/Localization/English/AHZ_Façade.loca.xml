@@ -1,5 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <contentList>
+	<!-- AHZ_DISGUISE_SELF_000 DisplayName -->
+	<content contentuid="h07271b83gdb2ag4dffg833dg1f34d8167899" version="1">Façade</content>
+
+	<!-- AHZ_DISGUISE_SELF_000 Description -->
+	<content contentuid="hfa99e749g018eg4be5gbd4ag150e30e9d4c7" version="2">Appearance is entirely changed.</content>
+
 	<!-- AHZ_Shout_DisguiseSelf DisplayName -->
 	<content contentuid="hbd66a169gb57eg429egb7d1g669c463f7e8e" version="1">Façades</content>
 
@@ -12,15 +18,16 @@
 	<!-- AHZ_Shout_DisguiseSelf_Cancel Description -->
 	<content contentuid="h52f98b6dgd233g4c9fga1f0g5601793ef511" version="2">Dispel your façade and revert to your original form.</content>
 
-	<!-- AHZ_Shout_DisguiseSelf_Tiefling_Male DisplayName -->
-	<content contentuid="h87ee2c82g586bg4dc9gbdefg64ae747ba781" version="1">Façade: Masc Tiefling</content>
+	<!-- AHZ_Shout_DisguiseSelf_001 DisplayName -->
+	<content contentuid="h87ee2c82g586bg4dc9gbdefg64ae747ba781" version="2">Façade: Masc Tiefling</content>
 
-	<!-- AHZ_Shout_DisguiseSelf_Tiefling_Male Description -->
-	<content contentuid="hd2c39074g2de6g44e4ga2deg035261e4f9e2" version="1">Disguise yourself as a tiefling with a masculine body type.</content>
+	<!-- AHZ_Shout_DisguiseSelf_001 Description -->
+	<content contentuid="hd2c39074g2de6g44e4ga2deg035261e4f9e2" version="2">Disguise yourself as a tiefling with a masculine body type.</content>
 
-	<!-- AHZ_DISGUISE_SELF_TIEFLING_MALE DisplayName -->
-	<content contentuid="h07271b83gdb2ag4dffg833dg1f34d8167899" version="1">Façade</content>
+	<!-- AHZ_Shout_DisguiseSelf_002 DisplayName -->
+	<content contentuid="h36b518cdga9b3g400fgbb2fgcbe34b163b0b" version="2">Façade: Femme Tiefling</content>
 
-	<!-- AHZ_DISGUISE_SELF_TIEFLING_MALE Description -->
-	<content contentuid="hfa99e749g018eg4be5gbd4ag150e30e9d4c7" version="2">Appearance is entirely changed.</content>
+	<!-- AHZ_Shout_DisguiseSelf_002 Description -->
+	<content contentuid="hf71fe4cag0947g4d6fgac92g035e9c8a31be" version="2">Disguise yourself as a tiefling with a feminine body type.</content>
+
 </contentList>
