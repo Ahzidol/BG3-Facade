@@ -18,3 +18,10 @@ using "AHZ_DISGUISE_SELF_000"
 data "Icon" "Spell_Illusion_DisguiseSelf_Tiefling_Male"
 data "TemplateID" "cc71e73a-53eb-4f49-ab31-e80d5d5f1ef2"
 
+new entry "AHZ_DISGUISE_SELF_002"
+type "StatusData"
+data "StatusType" "POLYMORPHED"
+using "AHZ_DISGUISE_SELF_000"
+data "Icon" "Spell_Illusion_DisguiseSelf_Tiefling_Female"
+data "TemplateID" "aadac54f-38c0-4486-b45f-01c30e2e9323"
+
