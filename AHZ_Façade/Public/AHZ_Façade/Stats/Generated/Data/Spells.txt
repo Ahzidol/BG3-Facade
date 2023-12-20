@@ -1,3 +1,4 @@
+// Disguise Self Spell Container
 new entry "AHZ_Shout_DisguiseSelf"
 type "SpellData"
 data "SpellType" "Shout"
@@ -24,6 +25,7 @@ data "CastEffect" "c33c578f-fc5c-4a9d-a961-78b7bfff73d7"
 data "HitEffect" "ebcd0860-3695-4762-b9f5-4e441c4bf888"
 data "RitualCosts" "ActionPoint:1"
 
+// Cancel Disguise Self
 new entry "AHZ_Shout_DisguiseSelf_Cancel"
 type "SpellData"
 data "SpellType" "Shout"
@@ -41,6 +43,7 @@ data "SpellAnimation" "dd86aa43-8189-4d9f-9a5c-454b5fe4a197,,;,,;bcc3b0d9-f04f-4
 data "SpellFlags" "Temporary"
 data "FollowUpOriginalSpell" "AHZ_Shout_DisguiseSelf"
 
+// Disguise Self 001
 new entry "AHZ_Shout_DisguiseSelf_001"
 type "SpellData"
 data "SpellType" "Shout"
@@ -54,6 +57,7 @@ data "Description" "hd2c39074g2de6g44e4ga2deg035261e4f9e2;2"
 data "TooltipStatusApply" "ApplyStatus(AHZ_DISGUISE_SELF_001,100,-1)"
 data "RitualCosts" "ActionPoint:1"
 
+// Disguise Self 002
 new entry "AHZ_Shout_DisguiseSelf_002"
 type "SpellData"
 data "SpellType" "Shout"

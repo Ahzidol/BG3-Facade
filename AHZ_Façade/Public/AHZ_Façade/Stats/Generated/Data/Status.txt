@@ -1,3 +1,4 @@
+// Root Disguise Self Status
 new entry "AHZ_DISGUISE_SELF_000"
 type "StatusData"
 data "StatusType" "POLYMORPHED"
@@ -11,6 +12,7 @@ data "Rules" "c7c3381e-b901-416e-a0c4-bc745e1ff54a"
 data "StatusGroups" "SG_Polymorph;SG_Disguise;SG_RemoveOnRespec"
 data "StatusEffect" "43248db1-c7e1-424d-935e-516d8071cf66"
 
+// Disguise Self 001
 new entry "AHZ_DISGUISE_SELF_001"
 type "StatusData"
 data "StatusType" "POLYMORPHED"
@@ -18,6 +20,7 @@ using "AHZ_DISGUISE_SELF_000"
 data "Icon" "Spell_Illusion_DisguiseSelf_Tiefling_Male"
 data "TemplateID" "cc71e73a-53eb-4f49-ab31-e80d5d5f1ef2"
 
+// Disguise Self 002
 new entry "AHZ_DISGUISE_SELF_002"
 type "StatusData"
 data "StatusType" "POLYMORPHED"
