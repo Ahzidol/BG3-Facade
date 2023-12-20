@@ -1,4 +1,4 @@
-new entry "AHZ_DISGUISE_SELF_TIEFLING_MALE"
+new entry "AHZ_DISGUISE_SELF_000"
 type "StatusData"
 data "StatusType" "POLYMORPHED"
 data "DisplayName" "h07271b83gdb2ag4dffg833dg1f34d8167899;1"
